@@ -9,6 +9,9 @@
     "build": "greenwood build",
     "serve": "greenwood serve"
   },
+  "dependencies": {
+    "thunderous": "^2.3.0"
+  },
   "devDependencies": {
     "@greenwood/cli": "~0.32.0"
   }
